@@ -1,6 +1,6 @@
-# myapp
+# Kokrhel
 
-A new Flutter project.
+Several timers in parallel
 
 ## Getting Started
 
